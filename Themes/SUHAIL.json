@@ -1,6 +1,6 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Suhail",
+    "AUTHOR": "FARHAN JANI",
     "theme": "Suhail-Md",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
@@ -11,7 +11,7 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },  
         "global": {      
-            "botName": "Suhail-Md",
+            "botName": "FARHAN_JANI",
             "body": "whatsapp User Bot", 
             "greet2" : "Thanks To Suhail Ser",
             "pic1": "https://telegra.ph/file/ec9bc5038601821f2eb84.jpg", 
@@ -34,8 +34,8 @@
             "session": "\n*This is your session.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Suhail_Md*",
             "mention": " Please mention My Owner",
             "title": "sᴜʜᴀɪʟ-ᴍᴅ",
-            "footer": "sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/SuhailTechInfo",
-            "by": "Made by: Suhail Tech Info",
+            "footer": "sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n https://chat.whatsapp.com/Gyzvz1ZSpw91Gc44quMXc5",
+            "by": "Made by: FARHAN JANI Info",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
             "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
